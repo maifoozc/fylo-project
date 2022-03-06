@@ -13,7 +13,7 @@ function Showcase() {
             </div>
 
 
-            <div className="col-">
+            <div className="col">
                 <h1>Stay productive,<br/>
                  wherever you are</h1>
                  <h5>Never let location be an issue when accessing your files. Fylo has you<br/>
