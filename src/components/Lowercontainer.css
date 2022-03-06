@@ -1,0 +1,25 @@
+.lowerComponent{
+    padding: 30px;
+    margin-top: 50px;
+    background-image: url(../images/bg-quotes.png);
+    background-repeat: no-repeat;
+    background-position-y: -10px;
+    max-width: 1349px;
+}
+
+.paper{
+    background-color:slategray;
+    font-family: serif;
+}
+.card{
+    margin-right: 0px;
+}
+.profile{
+    display: flex;
+    margin-left: 20px;
+}
+
+.proPic > img {
+    border-radius: 50%;
+    width: 50px;
+}

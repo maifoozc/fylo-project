@@ -1,0 +1,30 @@
+body{
+    max-width: 1349px;
+}
+.cardss{
+    font-family: serif;
+    background-color:slategray;
+    text-align: center;
+    width:50%;
+    margin: auto;
+    margin-top: 50px;
+    padding: 30px;
+    margin-bottom: 100px;
+    
+}
+.emaiInput{
+    border-radius: 20px;
+    border: 0px;
+    margin-right: 10px;
+    color: grey;
+    text-align: center;
+    padding: 10px;
+    width: 70%;
+}
+.emaiSubmit{
+    border-radius: 20px;
+    border: 0px;
+    background-color:cadetblue;
+    color: white;
+    padding: 10px;
+}

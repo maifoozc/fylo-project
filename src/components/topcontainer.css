@@ -1,0 +1,35 @@
+.topcontainer {
+text-align: center;
+max-width: 1349px;
+font-family: serif;
+padding-bottom: 20px;
+}
+.topImage > img{
+    width: 70%;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+}
+.topHeader{
+    align-items: center;
+    padding-top: 30px;
+    background-image: url(../images/bg-curvy-desktop.svg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position-y: -10%;
+}
+
+.topButton{
+    
+    border-radius: 20px;
+    width: 18%;
+    background-color:turquoise;
+    color:#fff;
+    padding: 10px ;
+}
+h1, h5{
+    padding: 20px;
+}
+
+
